@@ -1,48 +1,42 @@
-Capstone 3: EmporiUm Sales Analysis with Power BI
+# Capstone 3 — EmporiUm Sales Analysis with Power BI
 
-Analyst: Eyerusalem Debero
-Program: Year Up United Data Analytics Training Academy
-Week: 12 — Capstone Project
-Date: June 23, 2026
+This project analyzes EmporiUm sales data using Power BI to understand overall business performance across the reporting period. The goal was to explore sales trends, product categories, store performance, and top-selling books in a clear and visual way.
 
-Overview
+##Project Summary
 
-This project analyzes four years of sales data (January 2022 – December 2025) for EmporiUm, a virtual student bookstore. I cleaned, modeled, and visualized the data in Power BI to help the regional sales team make better business decisions.
+In this project, I worked with sales data and used Power BI to clean, organize, and visualize the information. I created interactive dashboards to help show how sales change over time and which products and stores perform the best.
 
-Territory: Maine — Stores 818–823 | Manager: Erbayne Middleton
+The report was designed to help make business decisions easier by turning raw data into simple visuals that show patterns and trends.
 
-Video Recording
+## Report Pages
+
+###Page 1 — Sales Overview
+I analyzed monthly sales trends across the full time period
+I compared sales by category to see which products perform best
+I also included sales by store to compare performance across locations
+
+###Page 2 — Products & Top Books
+I created a category breakdown using a donut chart to show sales distribution
+I identified the top 10 best-selling books and included author names
+This page helps show which books are most popular with customers
+
+###Page 3 — Store Performance
+I compared total sales across all stores
+I reviewed yearly growth for each store to see performance changes over time
+This page helps identify the strongest and weakest stores
+
+##Key Findings
+Overall sales increased over the reporting period
+Technology was the highest-performing category
+Store performance was not equal across all locations
+South Portland was the top-performing store
+Sales grew significantly over time
+The top-selling book was The Hobbit by J.R.R. Tolkien
+
+#Video Link
+
 https://drive.google.com/file/d/1tq8tce7hfr4iA0cT0iW756YmZJqNczK4/view?usp=sharing
 
-Report Pages
+#Tools Used
 
-Page 1 — Sales Overview
-
-
-Key metrics, monthly sales trend, sales by category, and sales by store
-
-
-Page 2 — Products & Top Books
-
-
-Revenue share by category (donut chart) and top 10 best-selling books with authors
-
-
-Page 3 — Store Performance
-
-
-Store totals comparison and annual revenue growth by store
-
-Key Findings
-
-
-Maine territory earned $1.88 million total across all 4 years
-2025 was the best year — $695K, up 53% from 2024
-Technology is the top category at $1.36M — 72% of all sales
-South Portland is the top store at $332K
-Revenue grew 6 times from Jan 2022 ($15K/month) to Oct 2025 ($93K/month)
-Top selling book: The Hobbit by J.R.R. Tolkien
-
-Tools Used
-
-Power BI Desktop · Python (pandas) · Microsoft Excel · GitHub
+Power BI Desktop · Microsoft Excel · GitHub
