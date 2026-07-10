@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Capstone 3 — EmporiUm Sales Analysis with Power BI
-=======
 # Capstone_3: EmporiUm Sales Analysis with Power BI
->>>>>>> 5e871d1 (Update README)
 
 This project analyzes EmporiUm sales data using Power BI to understand overall business performance across the reporting period. The goal was to explore sales trends, product categories, store performance, and top-selling books in a clear and visual way.
 
@@ -39,8 +35,5 @@ The top-selling book was The Hobbit by J.R.R. Tolkien
 
 # Tools Used
 
-<<<<<<< HEAD
 Power BI Desktop · Microsoft Excel · GitHub
-=======
 Power BI Desktop · Microsoft Exce
->>>>>>> 5e871d1 (Update README)
