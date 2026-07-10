@@ -37,10 +37,6 @@ South Portland was the top-performing store
 Sales grew significantly over time
 The top-selling book was The Hobbit by J.R.R. Tolkien
 
-# Video Link
-
-https://drive.google.com/file/d/1tq8tce7hfr4iA0cT0iW756YmZJqNczK4/view?usp=sharing
-
 # Tools Used
 
 <<<<<<< HEAD
